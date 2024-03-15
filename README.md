@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.tenor.com/2GTfGOQMA-wAAAAC/computer-nerd.gif"  />
-</div>
+
 
 ###
 
