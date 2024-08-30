@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm from Brazil, and i'm a currently studying at EEEP José Ivanilton Nocrato<br><br>- 🔭 I’m currently working on a project for my internship<br>- 📚 I'm currently learning PHP and focusing on the Backend Web Development</p>
+<p align="left">I'm from Brazil, and i'm a currently studying at EEEP José Ivanilton Nocrato<br>
 
 ###
 
